@@ -3,17 +3,9 @@
 // Author      : Ayanle
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Hthis project is intended as a conjuction with other project called ProjectX
 //============================================================================
 
-
-//============================================================================
-// Name        : ayanlaz.cpp
-// Author      :
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
 
 #include <iostream>
 #include <boost/asio.hpp>
